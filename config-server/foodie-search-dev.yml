@@ -1,0 +1,5 @@
+search:
+  enable: true
+
+test: config-test
+  
