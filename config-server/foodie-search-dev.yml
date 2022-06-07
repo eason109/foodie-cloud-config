@@ -2,4 +2,7 @@ search:
   enable: true
 
 test: config-test
+
+server:
+  port: 20004
   
